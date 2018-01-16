@@ -1,0 +1,9 @@
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\WebServiceSample\WebServiceSample\bin\WebServiceSample.dll.config
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\WebServiceSample\WebServiceSample\bin\WebServiceSample.dll
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\WebServiceSample\WebServiceSample\bin\WebServiceSample.pdb
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\WebServiceSample\WebServiceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\WebServiceSample\WebServiceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\WebServiceSample\WebServiceSample\obj\Debug\WebServiceSample.csprojResolveAssemblyReference.cache
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\WebServiceSample\WebServiceSample\obj\Debug\WebServiceSample.csproj.CoreCompileInputs.cache
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\WebServiceSample\WebServiceSample\obj\Debug\WebServiceSample.dll
+C:\Users\Ofis\Documents\Visual Studio 2017\Projects\WebServiceSample\WebServiceSample\obj\Debug\WebServiceSample.pdb
